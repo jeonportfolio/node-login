@@ -11,4 +11,9 @@
 ## MVC <br/>
 
 - 컨트롤러 분리 & app.listen 모듈화 -> `nodemon ./bin/www.js`로 실행<br/>
+- `express.static`를 사용하여 정적 파일 가져오기 <br/>
 
+## DOM 구조 <br/>
+
+- 문서 객체 모델을 사용해서 로그인 정보 가져와서 제어하기 <br/>
+- `defer`를 사용해서 파싱 진행
