@@ -15,5 +15,11 @@
 
 ## DOM 구조 <br/>
 
-- 문서 객체 모델을 사용해서 로그인 정보 가져와서 제어하기 <br/>
-- `defer`를 사용해서 파싱 진행
+- DOM을 활용하여 로그인 정보를 가져와 조작하기" <br/>
+- `defer` 속성을 사용하여 HTML 파싱 후 스크립트 실행 <br/>
+
+## 데이터 전송 <br/>
+
+- fetch를 통해 응답 데이터를 JSON 형식으로 변환하여 전달 <br/>
+- Restful API의 post 방식 <br/>
+- bodypaser를 사용해서 req.body에 접근 `npm i body-parser -s`
