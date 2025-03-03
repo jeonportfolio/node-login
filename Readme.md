@@ -23,3 +23,8 @@
 - fetch를 통해 응답 데이터를 JSON 형식으로 변환하여 전달 <br/>
 - Restful API의 post 방식 <br/>
 - bodypaser를 사용해서 req.body에 접근 `npm i body-parser -s`
+
+## 로그인 <br/>
+
+- 로그인 성공시 루트경로로 이동 실패시 메세지 도출<br/>
+- 로그인 프로세스 실패시 catch문으로 에러 검출 <br/>
