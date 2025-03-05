@@ -28,5 +28,7 @@
 
 - 컨트롤러 분리 & app.listen 모듈화 -> `nodemon ./bin/www.js`로 실행<br/>
 - `express.static`를 사용하여 정적 파일 가져오기 <br/>
-- models에서 회원정보 데이터 설정 (데이터 은닉화 후 메소드로 받아오기) -> reduce를 사용 
+- models에서 회원정보 데이터 설정 (데이터 은닉화 후 메소드로 받아오기) -> reduce를 사용 <br/>
+- user 인스턴스를 만들어서 body의 정보를 갖게 하기 constructor로 받음 <br/>
+
 
