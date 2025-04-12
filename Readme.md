@@ -35,3 +35,7 @@
 - 회원가입 라우팅 및 등록 메소드 생성<br/>
 - 데이터 파일로 관리, promises 비동기 사용<br/>
 
+## 회원 가입 <br/>
+
+- 회원 데이터 저장 (UserStorage.js에서 filewrite를 사용해 users.json에 저장)
+
